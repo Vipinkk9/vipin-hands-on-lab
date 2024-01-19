@@ -17,13 +17,13 @@ locations:
   TST:
     mappingDefinitions:
       "6":
-        database: ""
-        schema: ""
+        database: VIPIN
+        schema: WORKTEST
   WORK:
     mappingDefinitions:
       "6":
         database: VIPIN
-        schema: WORKTEST
+        schema: WORKDEV
 macros: {}
 packages: {}
 projects: {}
